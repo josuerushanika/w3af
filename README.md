@@ -20,7 +20,6 @@ document in our wiki. All contributions, no matter how small, are welcome.
  * [Project documentation](http://docs.w3af.org/en/latest/)
 
 ## Sponsors
-
 [Holm Security](https://www.holmsecurity.com/) sponsors the project and uses [w3af](http://w3af.org/)
 as part of their amazing [automated and continuous vulnerability assessment platform](https://www.holmsecurity.com/vulnerability-assessment).
 
